@@ -16,3 +16,12 @@ const partnerName = "None";
 let numberChildren = 2;
 console.log(`<p>I will be a ${jobTitle} in ${geoLocation}, and married to ${partnerName} with 
 ${numberChildren} kids.</p>`);
+
+const className = "Kacy";
+let email = "kacy@usa.com";
+let newAge = 68;
+const country = "USA";
+let password = "PaSsWoRd";
+let salary = 1000 * 12;
+
+console.log(className, email, salary);
